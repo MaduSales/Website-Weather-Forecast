@@ -5,7 +5,7 @@ Projeto com HTML, CSS e JavaScript de uma website de previsão de tempo usando A
 
 ## Acesso
 
-[Clique aqui para acessar! :)](https://madusales.github.io/Fast-Food-Responsive-Landing-Page/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Website-Weather-Forecast/)
 
 ## Tecnologias
 - HTML
