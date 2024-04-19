@@ -1,4 +1,4 @@
-![image](https://github.com/MaduSales/Website-Weather-Forecast/assets/166547195/50424800-33d3-4ad3-8163-c438177f5707)# Website-Weather-Forecast
+# Website-Weather-Forecast
 ![Preview](https://github.com/MaduSales/Website-Weather-Forecast/assets/166547195/4a73b665-0a88-4162-8a1d-de64308131a2)
 
 Projeto com HTML, CSS e JavaScript de uma website de previsão de tempo usando API externa
