@@ -13,7 +13,8 @@ Projeto com HTML, CSS e JavaScript de uma website de previsão de tempo usando A
 - JavaScript
 - Github
 
-- ## Contato
-[(LinkedIn)](www.linkedin.com/in/maria-eduarda-de-sales-78a04221b)
-E-mail: maria.esmiranda08@gmail.com
+## Contato
+[LinkedIn](https://www.linkedin.com/in/mariaeduardasales)
+E-mail: maria.mirandadev@gmail.com
+
 
